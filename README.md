@@ -1,7 +1,7 @@
 # 🌿 Smart Irrigation System — Automated IoT Soil Moisture Sensing & Water Management
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=064E3B,15803D,84CC16&height=220&section=header&text=Smart%20Irrigation%20System&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Automated%20IoT%20Soil%20Moisture%20Sensing%20%26%20Water%20Resource%20Management&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="Smart Irrigation System Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:15803D,100:84CC16&customColorList=064E3B,15803D,84CC16&height=220&section=header&text=Smart%20Irrigation%20System&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Automated%20IoT%20Soil%20Moisture%20Sensing%20%26%20Water%20Resource%20Management&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Smart Irrigation System Banner" />
 </p>
 
 <p align="center">
@@ -178,5 +178,5 @@ Contributions, bug reports, and architectural discussions are welcome!
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=064E3B,15803D,84CC16&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:15803D,100:84CC16&customColorList=064E3B,15803D,84CC16&height=100&section=footer" width="100%" alt="Footer Banner" />
 </p>
